@@ -157,6 +157,7 @@ namespace Lab_5_Horbach_633p
             protocol.AppendLine($"Загальна вартість робіт:\nS = {TotalCost}");
         }
 
+
         // Метод для отримання матриці призначень у вигляді рядка (для виводу)
         public string GetAppointmentsAsString()
         {
